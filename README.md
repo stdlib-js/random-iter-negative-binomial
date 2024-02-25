@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterator from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-negative-binomial@esm/index.mjs';
+import iterator from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-negative-binomial@v0.2.1-esm/index.mjs';
 ```
 
 #### iterator( r, p\[, options] )
@@ -198,7 +198,7 @@ The returned iterator protocol-compliant object has the following properties:
 <body>
 <script type="module">
 
-import iterator from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-negative-binomial@esm/index.mjs';
+import iterator from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-negative-binomial@v0.2.1-esm/index.mjs';
 
 var it;
 var r;
